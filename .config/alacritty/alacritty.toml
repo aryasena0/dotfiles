@@ -1,0 +1,12 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/aura.toml"
+]
+
+[window]
+padding = { x = 12, y = 12 }
+opacity = 0.8
+
+[font]
+normal = { family = "GeistMono Nerd Font", style = "Regular" }
+size = 11.25
