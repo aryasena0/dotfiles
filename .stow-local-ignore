@@ -7,3 +7,4 @@ LICENSE
 !.config/hypr
 !.config/tmux
 !.config/kitty
+setup.sh
